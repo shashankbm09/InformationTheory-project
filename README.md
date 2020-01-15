@@ -22,3 +22,9 @@ transmitted symbols into data streams.
 
 [2] S. Sandhu and A. Paulraj, "Space-time block codes: a capacity perspective," in IEEE Communications 
 Letters, vol. 4, no. 12, pp. 384-386, Dec. 2000. doi: 10.1109/4234.898716
+
+## Report
+https://github.com/shashankbm09/InformationTheory-project/blob/master/620R_Shashank_Murugesh.pdf
+
+## Code
+https://github.com/shashankbm09/InformationTheory-project/blob/master/620R_Shashank_Murugesh.m
