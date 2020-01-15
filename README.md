@@ -1,6 +1,6 @@
 # Capacity Perspective of Space-Time Block Codes
 
-##Abstract
+## Abstract
 
 Next generation wireless system requires high capacity, reliability and data rate compared to 
 the current communication system. To achieve such expectation space-time coding and MIMO 
